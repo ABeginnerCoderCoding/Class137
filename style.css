@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.main-heading{
+    background-color: yellow;
+}
+.heading{
+    font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+.links{
+    margin: 30px;
+    width: 150px;
+    text-decoration: none;
+    background-color: aqua;
+    color: black;
+}
